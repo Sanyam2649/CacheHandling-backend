@@ -70,3 +70,12 @@ Ensure that you have Node.js installed (version 12 or later).
 Clone the Repository:
 
 Clone the repository to your local machine:
+
+https://github.com/Sanyam2649/CacheHandling-backend.git
+cd CacheHandling-backend
+
+Install Required Packages:
+npm install
+
+Run the Application:
+node cache.js
